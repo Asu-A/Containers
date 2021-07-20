@@ -1,11 +1,3 @@
-//
-//  isInoutIterator.hpp
-//  ft_containers
-//
-//  Created by Frenica Torn on 4/26/21.
-//  Copyright © 2021 Frenica Torn. All rights reserved.
-//
-
 #ifndef isInoutIterator_hpp
 #define isInoutIterator_hpp
 
